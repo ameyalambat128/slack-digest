@@ -1,0 +1,8 @@
+slack_bolt
+fastapi
+uvicorn
+openai
+python-dotenv
+aiohttp
+pytest
+pytest-asyncio 
